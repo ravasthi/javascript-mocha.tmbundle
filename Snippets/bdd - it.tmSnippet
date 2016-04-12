@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it('should $1', function(){
+	<string>it('should $1', () =&gt; {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>bdd - it</string>
 	<key>scope</key>

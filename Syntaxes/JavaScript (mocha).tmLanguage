@@ -14,7 +14,7 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string>source.js</string>
+			<string>source.js.babel</string>
 		</dict>
 	</array>
 	<key>scopeName</key>

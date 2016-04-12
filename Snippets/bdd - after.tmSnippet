@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>after(function(){
+	<string>after(() =&gt; {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>bdd - after</string>
 	<key>scope</key>

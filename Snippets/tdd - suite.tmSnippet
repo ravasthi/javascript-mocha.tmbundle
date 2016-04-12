@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>suite('$1', function() {
+	<string>suite('$1', () =&gt; {
   $0
 });</string>
 	<key>name</key>
