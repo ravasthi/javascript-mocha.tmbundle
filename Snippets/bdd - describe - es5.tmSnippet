@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>setup(() =&gt; {
+	<string>describe('$1', function () {
   $0
 });</string>
 	<key>name</key>
-	<string>tdd – setup</string>
+	<string>bdd – describe – es5</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>setup</string>
+	<string>des5</string>
 	<key>uuid</key>
-	<string>DCEE796A-900D-4922-BAF0-39C9B91A15E1</string>
+	<string>F2551E38-2DE0-46D6-8756-86495108FB9A</string>
 </dict>
 </plist>

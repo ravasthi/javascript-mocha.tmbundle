@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>expect(${1:component}).to.$0</string>
 	<key>name</key>
-	<string>bdd - expect</string>
+	<string>bdd – expect</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

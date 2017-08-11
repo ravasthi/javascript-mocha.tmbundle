@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>setup(() =&gt; {
+	<string>beforeEach(function () {
   $0
 });</string>
 	<key>name</key>
-	<string>tdd – setup</string>
+	<string>bdd – before each – es5</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>setup</string>
+	<string>be5</string>
 	<key>uuid</key>
-	<string>DCEE796A-900D-4922-BAF0-39C9B91A15E1</string>
+	<string>4FE478D5-CDE6-4113-92E4-09EDA633AEBA</string>
 </dict>
 </plist>

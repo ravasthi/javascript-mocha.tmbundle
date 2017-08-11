@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>setup(() =&gt; {
+	<string>it('should $1', function () {
   $0
 });</string>
 	<key>name</key>
-	<string>tdd – setup</string>
+	<string>bdd – it – es5</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>setup</string>
+	<string>it5</string>
 	<key>uuid</key>
-	<string>DCEE796A-900D-4922-BAF0-39C9B91A15E1</string>
+	<string>9EEB0F27-015A-4D22-9A31-EA70D65709C1</string>
 </dict>
 </plist>
